@@ -1,2 +1,11 @@
-# hello-world-c
-Hello World Activity repository
+# Hello World in C
+
+A basic C program that prints "Hello World" to the screen.
+
+## How to Compile and Run
+```bash
+gcc hello.c -o hello
+./hello
+```
+## Student Name
+Pranav Arun
